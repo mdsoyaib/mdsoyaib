@@ -1,5 +1,5 @@
 <h2>Hi, I am Md Soyaib.</h2>
-<p font-size="40px">I am a Python-Django developer from Dhaka, Banagladesh.</p>
+<p font-weight="bold">I am a Python-Django developer from Dhaka, Banagladesh.</p>
 <a href="https://www.linkedin.com/in/mdsoyaib/">
   <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="20px" height="20px"/>
 </a>
