@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/mdsoyaib/">
   <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="20px" height="20px"/>
 </a>
-
 ### Languages
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35px" height="35px" />
 
