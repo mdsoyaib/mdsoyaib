@@ -8,6 +8,7 @@
 
 ### Languages
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35px" height="35px" />
+<img src="https://www.fullstackpython.com/img/logos/django.png" width="35px" height="35px" />
 
 <div align="center">
   <a href="https://github.com/mdsoyaib">
