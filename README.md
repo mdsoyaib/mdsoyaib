@@ -2,7 +2,7 @@
 I am a Python-Django developer from Dhaka, Banagladesh.
 <br/><br/>
 <a href="https://www.linkedin.com/in/mdsoyaib/">
-  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="10px" height="10px"/>
+  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="30px" height="30px"/>
 </a>
 <div align="center">
   <a href="https://github.com/mdsoyaib">
