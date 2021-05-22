@@ -20,6 +20,8 @@
 ### Tools
 <img align="left" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" width="35px" height="35px" alt="Pycharm" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="35px" height="35px" alt="HeideSQL" />
+
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg" width="35px" height="35px" alt="Notepad++" />
 <br />
 <br />
 
