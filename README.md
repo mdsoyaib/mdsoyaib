@@ -8,7 +8,7 @@
 
 ### Languages
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px" height="40px" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="40px" height="40px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30px" height="30px" />
 <br />
 
 ### Libraries/Frameworks
@@ -27,7 +27,6 @@
 <br />
 
 ---
-
 ### GitHub Stats:
 <div align="center">
   <a href="https://github.com/mdsoyaib">
