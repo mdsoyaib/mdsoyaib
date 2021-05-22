@@ -3,11 +3,11 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/mdsoyaib/">
-  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="20px" height="20px"/>
+  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="25px" height="25px"/>
 </a>
 
 ### Languages
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35px" height="35px" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px" height="40px" />
 <br />
 
 ### Libraries/Frameworks
@@ -18,7 +18,7 @@
 <br />
 
 ### Tools
-<img align="left" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" width="35px" height="35px" alt="Pycharm" />
+<img align="left" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" width="35px" height="35px" alt="Pycharm" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="35px" height="35px" alt="HeideSQL" />
 <br />
 <br />
