@@ -18,8 +18,8 @@
 <br />
 
 ### Tools
-<img align="left" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" width="40px" height="40px" alt="Pycharm" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="40px" height="40px" alt="HeideSQL" />
+<img align="left" src="http://assets.stickpng.com/images/58481537cef1014c0b5e4968.png" width="35px" height="35px" alt="Pycharm" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="35px" height="35px" alt="HeideSQL" />
 <br />
 <br />
 
