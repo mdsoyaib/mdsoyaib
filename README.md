@@ -9,7 +9,10 @@
 ### Languages
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35px" height="35px" />
 <img align="left" src="https://www.fullstackpython.com/img/logos/django.png" width="35px" height="35px" />
-<br/>
+
+---
+
+### GitHub Stats:
 <div align="center">
   <a href="https://github.com/mdsoyaib">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mdsoyaib&count_private=true&include_all_commits=true&show_icons=true&line_height=27&hide_title=true&hide_border=true" alt="Shakib's GitHub Stats" alt="mdsoyaib's GitHub Stats" title="mdsoyaib's GitHub Stats" />
