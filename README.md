@@ -3,26 +3,26 @@
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/mdsoyaib/">
-  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="25px" height="25px"/>
+  <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621636598~hmac=95e99f6e20cc957d7d0958f6b39fe88b" alt="mdsoyaib's linkedin" title="mdsoyaib's linkedin" width="20px" height="20px"/>
 </a>
 
 ### Languages
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px" height="40px" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30px" height="30px" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="35px" height="35px" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="25px" height="25px" />
 <br />
 
 ### Libraries/Frameworks
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="40px" height="40px" alt="Django" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="35px" height="35px" alt="Django" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25px" height="25px" alt="Bootstrap"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30px" height="30px" alt="HTML5"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30px" height="30px" alt="CSS3"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25px" height="25px" alt="HTML5"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25px" height="25px" alt="CSS3"/>
 <br />
 
 ### Tools
-<img align="left" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" width="30px" height="30px" alt="Pycharm" />
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="30px" height="30px" alt="HeideSQL" />
+<img align="left" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" width="25px" height="25px" alt="Pycharm" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="25px" height="25px" alt="HeideSQL" />
 
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg" width="30px" height="30px" alt="Notepad++" />
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg" width="25px" height="25px" alt="Notepad++" />
 <br />
 <br />
 
