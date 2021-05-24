@@ -21,8 +21,9 @@
 ### Tools
 <img align="left" src="https://www.pinclipart.com/picdir/middle/55-551463_clipart-transparent-stock-python-tool-review-using-pycharm.png" width="25px" height="25px" alt="Pycharm" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" width="25px" height="25px" alt="HeideSQL" />
-
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/notepad--1.svg" width="25px" height="25px" alt="Notepad++" />
+<img align="left" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="25px" height="25px" alt="MySql" />
+<img align="left" src="https://w7.pngwing.com/pngs/743/345/png-transparent-bash-git-computer-icons-installation-command-line-interface-github-text-logo-windows-thumbnail.png" width="25px" height="25px" alt="GitBash" />
 <br />
 <br />
 
